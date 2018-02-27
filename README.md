@@ -1,6 +1,8 @@
 # Designing Apps with Scroll Views _ Part I
 ### Based on Apple WWDC 2010 Designing Apps with Scroll Views
 
+![Header Photo](Header_Photo/Part_I.png)
+
 This is the completed sample code of Designing Apps with Scroll Views _ Part I tutorial.
 In this tutorial you learn how to make a view to zoom in/out your photo or scroll on it.
 
